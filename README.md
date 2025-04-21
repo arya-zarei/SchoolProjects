@@ -4,4 +4,4 @@
 
 ### I’m a Computer Science student at Western University.
 
-### 📂 Explore the projects I’ve completed—take a look! 🚀
+### 📂 Take a look at some of the projects I’ve completed! 🚀
